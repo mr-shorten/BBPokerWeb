@@ -1,6 +1,7 @@
 {
   "name": "bbpoker-web",
   "version": "0.0.0",
+  "API_URL": "",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
